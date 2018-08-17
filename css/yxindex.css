@@ -143,7 +143,6 @@
 	background-position: 0 -113px;
 }
 
-
 .link > ul{
 	width: 1090px;
 	display: flex;
@@ -186,7 +185,7 @@
     z-index: 1;
     display: none;
 }
-.link ul li:nth-child(2):hover > .home{
+.link ul li:hover > .home{
     display: block;
 }
 .link .home .home0 {
@@ -1486,7 +1485,7 @@
 .right-side {
 	width: 72px;
 	position: fixed;
-	bottom: 134px;
+	bottom: 108px;
 	right: 0;
 	background-color: #fff;
 	text-align: center;
